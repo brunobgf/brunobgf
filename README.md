@@ -3,7 +3,7 @@
 <h3> &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Software Engineering student at Pontificia Católica Universidade de Minas Gerais (PUC-Minas) 
-- 🌱 &nbsp; Focusing on learning more about Java and WebDevlopment.
+- 🌱 &nbsp; Focusing on learning more about Java and WebDevelopment.
 
 <h3> :rocket: &nbsp; Skills </h3>
 

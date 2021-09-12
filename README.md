@@ -30,10 +30,9 @@
 **Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Notion](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![IntelliJ]
+  ![Notion]
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
@@ -43,7 +42,4 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Bruno Gomes](https://img.shields.io/badge/-Bruno Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-gomes-ferreira-47630313b/)](https://www.linkedin.com/in/bruno-gomes-ferreira-47630313b/)
-[![GitHub Bruno Gomes]( https://img.shields.io/github/followers/brunobgf?label=follow&style=social)](https://github.com/brunobgf)

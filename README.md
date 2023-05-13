@@ -8,7 +8,7 @@
 <h3> :rocket: &nbsp; Skills </h3>
 
 **Aplications**
-  ![Flutter](https://img.shields.io/badge/Flutter-333333?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

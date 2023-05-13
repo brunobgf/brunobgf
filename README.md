@@ -3,14 +3,13 @@
 <h3> &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Software Engineering student at Pontificia Católica Universidade de Minas Gerais (PUC-Minas) 
-- 🌱 &nbsp; Focusing on learning more about Java and WebDevelopment.
+- 🌱 &nbsp; Focusing on learning more about Flutter and Mobile app development.
 
 <h3> :rocket: &nbsp; Skills </h3>
 
 **Aplications**
-
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)

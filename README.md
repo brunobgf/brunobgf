@@ -1,8 +1,8 @@
 
 <h3> &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Software Engineering student at Pontificia Católica Universidade de Minas Gerais (PUC-Minas) 
-- 🌱 &nbsp; Focusing on learning more about Flutter and Mobile app development.
+- 🎓 &nbsp; Bachelor of Science in Software Engineering from Pontifícia Universidade Católica de Minas Gerais (PUC-Minas).
+- 💻 &nbsp; Seasoned Flutter Developer with 3+ years of professional experience in mobile application development
 
 <h3> :rocket: &nbsp; Skills </h3>
 
